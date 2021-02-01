@@ -45,3 +45,4 @@ describe('index', () => {
   })
 });
 console.log("something");
+console.log("I would be a logger.") 
